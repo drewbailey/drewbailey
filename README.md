@@ -2,10 +2,6 @@
 
 - 📫 Drop a line [drew@hey.com](mailto:drew@hey.com)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drewbailey/drewbailey/master/hello.gif">
-</p>
-
 <!--
 **drewbailey/drewbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
