@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📫 Drop a line [drew@hey.com](mailto:drew@hey.com)
-[![asciicast](https://asciinema.org/a/346468.svg)](https://asciinema.org/a/346468?autoplay=1)
 
 <!--
 **drewbailey/drewbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
