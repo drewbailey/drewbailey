@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/drewbailey/drewbailey/master/hello.gif">
-</p>
-
 - 📫 Drop a line [drew@hey.com](mailto:drew@hey.com)
 
 <!--
