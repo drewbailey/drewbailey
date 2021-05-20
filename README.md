@@ -1,4 +1,4 @@
-- 📫 Drop a line [drew@hey.com](mailto:drew@hey.com)
+- 📫 Drop a line [me@drewb.dev](mailto:me@drewb.dev)
 
 <!--
 **drewbailey/drewbailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
